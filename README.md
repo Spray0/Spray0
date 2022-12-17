@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Spray0
-- 📬 mail@spray0.cn
+![stars](https://img.shields.io/github/stars/Spray0?style=social) ![fws](https://img.shields.io/github/followers/Spray0?style=social)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spray0&show_icons=true&theme=vision-friendly-dark)
 
